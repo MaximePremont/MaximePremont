@@ -1,5 +1,5 @@
 # ⚙️ Maxime PREMONT
-**Pedagogical assistant at Epitech**  
+**Epitech pedagogical assistant and developper at Junior Conseil Taker**  
 
 ![](https://komarev.com/ghpvc/?username=MaximePremont&color=3643b5&style=flat)
 ### ✉️ Contact
