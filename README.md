@@ -1,8 +1,6 @@
 # ⚙️ Maxime PREMONT
 **Epitech pedagogical assistant and developper at Junior Conseil Taker**  
 
-⚡️ Currently looking for an internship in IT development of 4 to 5 months from April 2023.
-
 [![Profile views](https://komarev.com/ghpvc/?username=MaximePremont&color=3643b5&style=flat)](https://github.com/MaximePremont)
 ### ✉️ Contact
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📌 LinkedIn : [Maxime PREMONT](https://www.linkedin.com/in/maximepremont/)  
