@@ -9,7 +9,7 @@
 
 📍 Works from Lyon, France
 
-📄 **Types de projets effectués :**  
+📄 **Types of projects carried out :**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✏️&nbsp; Creation from design to development  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✏️&nbsp; Evolutions of existing products  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✏️&nbsp; Consultation and feasibility study  
