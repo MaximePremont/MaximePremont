@@ -31,4 +31,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📌&nbsp; Mail : [maxime.premont@gmail.com](mailto:maxime.premont@gmail.com)
 #
 
-[![Maxime PREMONT's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaximePremont&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/MaximePremont)
+[![Maxime PREMONT's GitHub stats](https://github-readme-stats-alpha-wheat-16.vercel.app/api?username=MaximePremont&count_private=true&show_icons=true&include_all_commits=true&theme=transparent&cache_seconds=14400&locale=fr)](https://github.com/MaximePremont)
