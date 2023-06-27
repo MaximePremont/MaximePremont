@@ -1,7 +1,8 @@
 # 🔍 Maxime PREMONT
 ### Ingénieur Fullstack [Enova Consulting](https://enova-consulting.ch) & Freelance
-
-[![Profile views](https://komarev.com/ghpvc/?username=MaximePremont&color=3643b5&style=flat)](https://github.com/MaximePremont)
+<a href="https://github.com/MaximePremont">
+    <img src="https://komarev.com/ghpvc/?username=MaximePremont&color=3643b5&style=flat" alt="Maxime PREMONT's GitHub stats" loading="lazy">
+</a>
 
 💡 Passionné d'informatique depuis le collège, je suis autonome flexible et enthousiaste. Au fil du termps, j'ai pu acquérir une véritable expérience au travers de ma formation, de mes missions et de mes nombreux projets personnels.
 
@@ -30,5 +31,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📌&nbsp; Twitter : [@PremontMaxime](https://twitter.com/PremontMaxime)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📌&nbsp; Mail : [maxime.premont@gmail.com](mailto:maxime.premont@gmail.com)
 #
-
-[![Maxime PREMONT's GitHub stats](https://github-readme-stats-alpha-wheat-16.vercel.app/api?username=MaximePremont&count_private=true&show_icons=true&include_all_commits=true&theme=transparent&cache_seconds=14400&locale=fr)](https://github.com/MaximePremont)
+<a href="https://github.com/MaximePremont">
+    <img src="https://github-readme-stats-alpha-wheat-16.vercel.app/api?username=MaximePremont&count_private=true&show_icons=true&include_all_commits=true&theme=transparent&cache_seconds=14400" alt="Maxime PREMONT's GitHub stats" loading="lazy">
+</a>
