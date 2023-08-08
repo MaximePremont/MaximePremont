@@ -1,0 +1,40 @@
+name: Update GitHub Stats
+on:
+  schedule:
+    # every dat at 01 AM
+    - cron: '0 1 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Git configuration
+        shell: bash
+        run: |-
+          git config --global user.name "${{ vars.USERNAME }}"
+          git config --global user.email "${{ vars.EMAIL }}"
+      - name: Select branch
+        shell: bash
+        run: |-
+          git pull origin HEAD
+          git checkout HEAD
+      - name: Update EN stats image
+        shell: bash
+        run: |-
+          curl -o ./.github/assets/images/stats_en.svg -LJ ${{ vars.EN_IMAGE_LINK }}
+      - name: Update FR stats image
+        shell: bash
+        run: |-
+          curl -o ./.github/assets/images/stats_fr.svg -LJ ${{ vars.FR_IMAGE_LINK }}
+      - name: Commit and push
+        shell: bash
+        run: |-
+          git add -A
+          git commit -m "[auto] Updated stats images" || exit 0
+          git push --all origin

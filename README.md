@@ -1,7 +1,7 @@
 # 🔍 Maxime PREMONT
 ### Freelance & Fullstack Engineer at [Enova Consulting](https://enova-consulting.ch)
 <a href="https://github.com/MaximePremont">
-    <img src="https://komarev.com/ghpvc/?username=MaximePremont&color=3643b5&style=flat" alt="Maxime PREMONT's GitHub stats" loading="lazy">
+    <img src="https://komarev.com/ghpvc/?username=MaximePremont&color=3643b5&style=flat" alt="Profile views" loading="lazy">
 </a>
 
 🇫🇷 **Description available in French [here](./README_FR.md)**
@@ -34,5 +34,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📌&nbsp; Mail : [maxime.premont@gmail.com](mailto:maxime.premont@gmail.com)
 #
 <a href="https://github.com/MaximePremont">
-    <img src="https://github-readme-stats-alpha-wheat-16.vercel.app/api?username=MaximePremont&count_private=true&show_icons=true&include_all_commits=true&theme=transparent&cache_seconds=14400" alt="Maxime PREMONT's GitHub stats" loading="lazy">
+    <img src="./.github/assets/images/stats_en.svg" alt="Maxime PREMONT's GitHub stats" loading="lazy">
 </a>
