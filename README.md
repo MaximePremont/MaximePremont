@@ -8,7 +8,7 @@
 
 💡 Passionate about computers since college, I am autonomous, flexible and enthusiastic. Over time, I was able to acquire real experience through my training, my missions and my many personal projects.
 
-📍 Works from Lyon, France
+📍 Works from Seoul, Republic of Korea ( /South Korea )
 
 📄 **Types of projects carried out :**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✏️&nbsp; Creation from design to development  
@@ -21,11 +21,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚙️&nbsp; Back-end : Node.js/Express, TypeScript, PHP, Prisma ORM  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚙️&nbsp; Front-end (web) : React.js, Next.js, TypeScript, JavaScript, HTML/(S)CSS  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚙️&nbsp; Base de données (web) : MySQL, Postgres, MongoDB, Firebase, Prisma ORM  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚙️&nbsp; Logiciel : C, C++, Java, C#, Python  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚙️&nbsp; Logiciel : ASM, C, C++, Java, C#, Python  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚙️&nbsp; DevOps : Docker, Ansible, Jenkins, Kubernetes  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚙️&nbsp; Deployment : Heroku, Vercel, Netlify, Unix Server, Google Cloud  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚙️&nbsp; Deployment : Heroku, Vercel, Netlify, Unix Server, Google Cloud, Firebase  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚙️&nbsp; Cloud : Google Cloud, Firebase, ElasticSearch  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚙️&nbsp; CMS : Wordpress, KirbyCMS  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚙️&nbsp; CMS : Wordpress, KirbyCMS, Shopify, Prestashop  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚙️&nbsp; Tools : Lucid Chart, PostMan, GitHub/Gitlab, Figma, Trello
 ### ✉️ Contact
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧩&nbsp; Malt, **work with me** : [Maxime PREMONT](https://www.malt.fr/profile/maximepremont)  
