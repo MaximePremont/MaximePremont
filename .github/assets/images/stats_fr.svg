@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Statistiques GitHub de Maxime PREMONT, Rank: A</title>
-        <desc id="descId">Total d'étoiles: 56, Total des Commits  : 56, Total des PRs: 762, Nombre total d'incidents: 810, Contribué à (l'année dernière): 28</desc>
+        <desc id="descId">Total d'étoiles: 56, Total des Commits  : 56, Total des PRs: 764, Nombre total d'incidents: 812, Contribué à (l'année dernière): 28</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 48.30039505371954;
+        stroke-dashoffset: 47.65125872978361;
       }
     }
   
@@ -177,7 +177,7 @@
         x="269.01"
         y="12.5"
         data-testid="commits"
-      >3.6k</text>
+      >3.9k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="269.01"
         y="12.5"
         data-testid="prs"
-      >762</text>
+      >764</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="269.01"
         y="12.5"
         data-testid="issues"
-      >810</text>
+      >812</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
