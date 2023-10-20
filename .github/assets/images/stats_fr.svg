@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Statistiques GitHub de Maxime PREMONT, Rank: A</title>
-        <desc id="descId">Total d'étoiles: 57, Total des Commits  : 57, Total des PRs: 776, Nombre total d'incidents: 824, Contribué à (l'année dernière): 26</desc>
+        <desc id="descId">Total d'étoiles: 57, Total des Commits  : 57, Total des PRs: 776, Nombre total d'incidents: 824, Contribué à (l'année dernière): 27</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,31 +73,31 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 47.07195728498282;
+        stroke-dashoffset: 47.034331885407475;
       }
     }
   
   
 
           
-    /* Animations */
-    @keyframes scaleInAnimation {
-      from {
-        transform: translate(-5px, 5px) scale(0);
+      /* Animations */
+      @keyframes scaleInAnimation {
+        from {
+          transform: translate(-5px, 5px) scale(0);
+        }
+        to {
+          transform: translate(-5px, 5px) scale(1);
+        }
       }
-      to {
-        transform: translate(-5px, 5px) scale(1);
+      @keyframes fadeInAnimation {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
       }
-    }
-    @keyframes fadeInAnimation {
-      from {
-        opacity: 0;
-      }
-      to {
-        opacity: 1;
-      }
-    }
-  
+    
           
         </style>
 
@@ -177,7 +177,7 @@
         x="269.01"
         y="12.5"
         data-testid="commits"
-      >3.9k</text>
+      >4k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="269.01"
         y="12.5"
         data-testid="contribs"
-      >26</text>
+      >27</text>
     </g>
   </g>
     </svg>
