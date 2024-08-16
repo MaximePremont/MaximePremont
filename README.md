@@ -1,4 +1,5 @@
-# 🔍 Maxime PREMONT
+# 👋 Maxime PREMONT
+## 🔍 Currently available for new freelance missions ! Please do not hesitate to contact me.
 ### Freelance & Fullstack Engineer at [Enova Consulting](https://enova-consulting.ch)
 <a href="https://github.com/MaximePremont">
     <img src="https://komarev.com/ghpvc/?username=MaximePremont&color=3643b5&style=flat" alt="Profile views" loading="lazy">
@@ -24,7 +25,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚙️&nbsp; Deployment : Heroku, Vercel, Netlify, Unix Server, Google Cloud, Firebase  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚙️&nbsp; Cloud : Google Cloud, Firebase, ElasticSearch  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚙️&nbsp; CMS : Wordpress, KirbyCMS, Shopify, Prestashop  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚙️&nbsp; Tools : Lucid Chart, PostMan, GitHub/Gitlab, Figma, Trello
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚙️&nbsp; Tools : Lucid Chart, PostMan, GitHub/Gitlab, Figma, Trello  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚙️&nbsp; Integrations : OpenAI API's, Stripe, Boond Manager
 ### ✉️ Contact
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📌&nbsp; LinkedIn : [Maxime PREMONT](https://www.linkedin.com/in/maximepremont)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📌&nbsp; Twitter : [@PremontMaxime](https://twitter.com/PremontMaxime)  
