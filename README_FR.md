@@ -1,5 +1,4 @@
 # 👋 Maxime PREMONT
-## 🔍 Actuellement disponible pour de nouvelles missions Freelance ! N'hésitez pas à [me contacter](https://www.linkedin.com/in/maximepremont).
 ### Ingénieur Fullstack [Enova Consulting](https://enova-consulting.ch) & Freelance
 <a href="https://github.com/MaximePremont">
     <img src="https://komarev.com/ghpvc/?username=MaximePremont&color=3643b5&style=flat" alt="Vues du profil" loading="lazy">
@@ -30,7 +29,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📌&nbsp; X : [Un Maxime](https://x.com/unmaxp_)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📌&nbsp; Threads : [Un Maxime](https://www.threads.net/@unmaxp_)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📌&nbsp; Adresse électronique : [maxime.premont@gmail.com](mailto:maxime.premont@gmail.com)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📌&nbsp; Travaillez avec moi ! ( Malt ) : [Maxime PREMONT](https://www.malt.fr/profile/maximepremont)
 #
 <a href="https://github.com/MaximePremont">
     <img src="./.github/assets/images/stats_fr.svg" alt="Statistiques GitHub de Maxime PREMONT" loading="lazy">
