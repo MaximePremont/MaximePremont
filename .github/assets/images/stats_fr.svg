@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Statistiques GitHub de Maxime PREMONT, Rank: A</title>
-        <desc id="descId">Total d'étoiles: 80, Total des Commits  : 6374, Total des PRs: 1288, Nombre total d'incidents: 1509, Contribué à (l'année dernière): 36</desc>
+        <desc id="descId">Total d'étoiles: 80, Total des Commits  : 6382, Total des PRs: 1290, Nombre total d'incidents: 1510, Contribué à (l'année dernière): 37</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 37.182887244795744;
+        stroke-dashoffset: 37.180094443718616;
       }
     }
   
@@ -222,7 +222,7 @@
         x="269.01"
         y="12.5"
         data-testid="contribs"
-      >36</text>
+      >37</text>
     </g>
   </g>
     </svg>
