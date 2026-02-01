@@ -1,5 +1,5 @@
 # 👋 Maxime PREMONT
-### [Digiforma Sync](https://www.digiforma.com/) CTO ( Chief Technology Officer )
+### Freelance Full Stack Engineer
 <a href="https://github.com/MaximePremont">
     <img src="https://komarev.com/ghpvc/?username=MaximePremont&color=3643b5&style=flat" alt="Profile views" loading="lazy">
 </a>
