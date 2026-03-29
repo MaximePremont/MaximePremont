@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Maxime PREMONT's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 106, Total Commits  : 7735, Total PRs: 1449, Total Issues: 1676, Contributed to (last year): 13</desc>
+        <desc id="descId">Total Stars Earned: 106, Total Commits  : 7741, Total PRs: 1449, Total Issues: 1676, Contributed to (last year): 13</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 31.80899215195953;
+        stroke-dashoffset: 31.80817614187247;
       }
     }
   
